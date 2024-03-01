@@ -1,4 +1,4 @@
-# Chi-square Test on Non-unitary Neutrino Oscillation
+Non-unitary Neutrino Oscillation
 
 ## Author: Jianrong (Paul) Tang
 
